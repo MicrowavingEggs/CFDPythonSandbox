@@ -1,0 +1,13 @@
+Uc: 0.1
+rho: 1.225
+L: 5
+Nx: 64
+epsilon: 0.001
+NDIM: 2
+tstart: 0
+tend: 40
+CFL: 0.1
+DISPLAY_FLAG: 1
+COMPUTE_AVAR_FLAG: 0
+SAVE_FLAG: 0
+STEADY_FLAG: 1
